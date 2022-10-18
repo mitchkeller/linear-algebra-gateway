@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bank xmlns="https://checkit.clontz.org" version="0.2">
+    <title>MATH 341 Linear Algebra Gateway Quiz</title>
+    <slug>gateway-quiz</slug>
+    <url>https://checkit.clontz.org</url>
+    <outcomes>
+        <outcome>
+            <title>Matrix Multiplication</title>
+            <slug>MM</slug>
+            <path>outcomes/MM</path>
+            <description>
+	      Multiply two matrices
+            </description>
+        </outcome>
+        <outcome>
+            <title>Scaling and Adding Vectors</title>
+            <slug>SAV</slug>
+            <path>outcomes/SAV</path>
+            <description>
+	      Calculate linear combinations of vectors
+            </description>
+        </outcome>
+        <outcome>
+            <title>Augmented Matrices</title>
+            <slug>AM</slug>
+            <path>outcomes/AM</path>
+            <description>
+	      Construct the agumented matrix of a linear system
+            </description>
+        </outcome>
+        <outcome>
+            <title>Reduced Row-Echelon Form</title>
+            <slug>RREF</slug>
+            <path>outcomes/RREF</path>
+            <description>
+	      Find the reduced row-echelon form of an augmented matrix
+            </description>
+        </outcome>
+<!--        <outcome>
+            <title>Solving Linear Systems</title>
+            <slug>SLS</slug>
+            <path>outcomes/SLS</path>
+            <description>
+	      Answer questions related to solving linear systems
+            </description>
+        </outcome>-->
+
+    </outcomes>
+</bank>
